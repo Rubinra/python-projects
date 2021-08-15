@@ -1,9 +1,14 @@
 body{
-	background:black;
-	color:red;
+    background-color: #697b7b;
+	color:black;
 	margin-top: 5px;
 }
 .button{
-	color:green;
+	color:blue;
 }
 .mark{font-size: 10px;}
+.container{
+    margin-left: 564px;
+    margin-top: 72px;
+
+}
